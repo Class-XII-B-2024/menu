@@ -1,0 +1,13 @@
+Location,Crop,Method,Pesticide Amount (mg/kg)
+Balkhu,Apple,EPOCH,0.025 ± 0.005
+Balkhu,Apple,PAD,0.035 ± 0.005
+Kalimati,Apple,EPOCH,0.030 ± 0.005
+Kalimati,Apple,PAD,0.040 ± 0.005
+Balkhu,Spinach,EPOCH,0.080 ± 0.005
+Balkhu,Spinach,PAD,0.075 ± 0.005
+Kalimati,Spinach,EPOCH,0.070 ± 0.005
+Kalimati,Spinach,PAD,0.085 ± 0.005
+Balkhu,Tomato,EPOCH,0.045 ± 0.005
+Balkhu,Tomato,PAD,0.025 ± 0.005
+Kalimati,Tomato,EPOCH,0.030 ± 0.005
+Kalimati,Tomato,PAD,0.020 ± 0.005
